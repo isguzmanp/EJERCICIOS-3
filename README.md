@@ -38,6 +38,6 @@ Cuando tiene una única solución
 
 Cuando no tiene solución
 
-![image](https://github.com/user-attachments/assets/11084acc-100b-4f73-804b-8b706cdf5c2f)
+![image](https://github.com/user-attachments/assets/7fe49f04-02c1-430f-9443-8ca9d1249cab)
 
 
